@@ -4,7 +4,6 @@
 
 ## ÍNDICE:
 
----
 
 [1. Definición del períférico](periferico.md)
 
