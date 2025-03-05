@@ -11,7 +11,7 @@
 
 [3. Tipos](tipos.md)
 
-[4. Ejemplos comerciales](ejeplos.md)
+[4. Ejemplos comerciales](ejemplos.md)
 
 [5. Conclusiones](conclusiones.md)
 
