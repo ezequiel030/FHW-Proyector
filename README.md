@@ -1,6 +1,6 @@
 # Proyectores: tecnología, tipos y aplicaciones en la era digital
 
-![Proyectores](img/)
+![Proyectores](img/Image-The-Premiere-1-622x408.jpg)
 
 ## ÍNDICE:
 
