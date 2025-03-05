@@ -2,42 +2,42 @@
 
 Existen varios tipos de proyectores basados en diferentes tecnologías:
 
-LCD (Liquid Crystal Display)
+### LCD (Liquid Crystal Display)
 
-Utiliza paneles de cristal líquido
+- Utiliza paneles de cristal líquido
 
-Buena reproducción del color
+- Buena reproducción del color
 
-Económicos y eficientes
+- Económicos y eficientes
 
-DLP (Digital Light Processing)
+### DLP (Digital Light Processing)
 
-Usa microespejos y una rueda de color
+- Usa microespejos y una rueda de color
 
-Excelente contraste y negros profundos
+- Excelente contraste y negros profundos
 
-Compactos y ligeros
+- Compactos y ligeros
 
-LCoS (Liquid Crystal on Silicon)
+### LCoS (Liquid Crystal on Silicon)
 
-Combina tecnología LCD y reflexiva
+- Combina tecnología LCD y reflexiva
 
-Alta resolución y calidad de imagen
+- Alta resolución y calidad de imagen
 
-Generalmente más caros
+- Generalmente más caros
 
-LED
+### LED
 
-Utiliza diodos emisores de luz como fuente luminosa
+- Utiliza diodos emisores de luz como fuente luminosa
 
-Larga vida útil y bajo consumo energético
+- Larga vida útil y bajo consumo energético
 
-Ideal para proyectores portátiles
+- Ideal para proyectores portátiles
 
-Láser
+### Láser
 
-Ofrece alto brillo y larga duración
+- Ofrece alto brillo y larga duración
 
-Encendido instantáneo y colores vibrantes
+- Encendido instantáneo y colores vibrantes
 
-Adecuado para instalaciones permanentes
+- Adecuado para instalaciones permanentes
