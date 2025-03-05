@@ -5,7 +5,7 @@
 <p align="center"> ÍNDICE: </p>
 
 <p align="center">
-1. Definición del períférico
+[1. Definición del períférico](periferico.md)
 </p>
 
 <p align="center">
