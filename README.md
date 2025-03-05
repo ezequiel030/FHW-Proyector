@@ -4,35 +4,21 @@
 
 <p align="center"> ÍNDICE: </p>
 
-<p align="center">
+---
+
 [1. Definición del períférico](periferico.md)
-</p>
 
-<p align="center">
-2. Características principales 
-</p>
+[2. Características principales](caracteristicas.md) 
 
-<p align="center">
-3. Tipos
-</p>
+[3. Tipos](tipos.md)
 
-<p align="center">
-4. Ejemplos comerciales
-</p>
+[4. Ejemplos comerciales](ejeplos.md)
 
-<p align="center">
-5. Conclusiones
-</p>
+[5. Conclusiones](conclusiones.md)
 
-<p align="center">
-6. referencias
-</p>
+[6. referencias](referencias.md)
 
-<p align="center">
-7. licencia 
-</p>
+[7. licencia](licencia.md) 
 
-<p align="center">
-8. autores
-</p>
+[8. autores](autores.md)
 
