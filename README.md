@@ -2,6 +2,8 @@
 
 ![Proyectores](img/Image-The-Premiere-1-622x408.jpg)
 
+<p align="center"> <img src="/img/Image-The-Premiere-1-622x408.jpg" alt="![impacto](/img/Image-The-Premiere-1-622x408.jpg)" /> </p>
+
 ## ÍNDICE:
 
 1. Definición del períférico
