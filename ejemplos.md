@@ -1,5 +1,7 @@
 # 🌟 Ejemplos comerciales  
 
+![comerciales](img/1-proyectores-scaled.jpg)
+
 Actualmente, en el mercado existen diversos modelos de proyectores con distintas tecnologías y aplicaciones. Algunos de los más populares son:  
 
 ### 🔹 **LCD**  
