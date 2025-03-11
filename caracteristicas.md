@@ -6,13 +6,14 @@ Los proyectores cuentan con varias características clave que determinan su dese
 
 ### 📌 Parámetros esenciales  
 <p align="center">
-✅ **Luminosidad**: Medida en **lúmenes**, determina el brillo de la imagen proyectada.  
-✅ **Resolución**: Define la **nitidez** de la imagen (ej. **1080p, 4K**).  
+✅ **Luminosidad**: Medida en **lúmenes**, determina el brillo de la imagen proyectada. 
+</p>
+<p align="center">
+✅ **Resolución**: Define la **nitidez** de la imagen (ej. **1080p, 4K**). 
+</p>
 ✅ **Contraste**: Diferencia entre los puntos más **claros y oscuros** de la imagen.  
 ✅ **Tamaño de proyección**: Rango de **tamaños de imagen** que puede producir.  
 ✅ **Tecnología de proyección**: Método utilizado para crear la imagen (**LCD, DLP**, etc.).  
-✅ **Conectividad**: Opciones de entrada como **HDMI, VGA, USB**, entre otras.  
-✅ **Vida útil de la lámpara**: Duración esperada de la **fuente de luz**.  
 </p>
 
 <p align="justify">
