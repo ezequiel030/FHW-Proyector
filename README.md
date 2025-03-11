@@ -19,5 +19,5 @@
 
 [7. licencia](licencia.md) 
 
-[8. autores](autores.md)
+[8. autor](autores.md)
 
