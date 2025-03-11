@@ -1,11 +1,11 @@
 # 🔍 Características de un proyector  
 
-<p align= "center">
+<p align= "justify">
 Los proyectores cuentan con varias características clave que determinan su desempeño y calidad de imagen:  
 </p>
 
 ### 📌 Parámetros esenciales  
-
+<p align="center">
 ✅ **Luminosidad**: Medida en **lúmenes**, determina el brillo de la imagen proyectada.  
 ✅ **Resolución**: Define la **nitidez** de la imagen (ej. **1080p, 4K**).  
 ✅ **Contraste**: Diferencia entre los puntos más **claros y oscuros** de la imagen.  
@@ -13,7 +13,8 @@ Los proyectores cuentan con varias características clave que determinan su dese
 ✅ **Tecnología de proyección**: Método utilizado para crear la imagen (**LCD, DLP**, etc.).  
 ✅ **Conectividad**: Opciones de entrada como **HDMI, VGA, USB**, entre otras.  
 ✅ **Vida útil de la lámpara**: Duración esperada de la **fuente de luz**.  
+</p>
 
-<p align="center">
+<p align="justify">
 Estas características influyen en la calidad y utilidad del proyector, permitiendo elegir el modelo adecuado según la necesidad. 🎥  
 </p>
