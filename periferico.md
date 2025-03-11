@@ -1,7 +1,7 @@
 # 📽️ ¿Qué es un proyector?
 
 <p align="justify">
-Un **proyector** es un dispositivo óptico que recibe una señal de video y proyecta la imagen correspondiente en una pantalla o superficie plana mediante un sistema de lentes.  
+Un proyector es un dispositivo óptico que recibe una señal de video y proyecta la imagen correspondiente en una pantalla o superficie plana mediante un sistema de lentes.  
 </p>
 
 ✅ **Usos principales:**  
