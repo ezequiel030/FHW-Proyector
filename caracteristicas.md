@@ -14,7 +14,7 @@ Los proyectores cuentan con varias características clave que determinan su dese
 ✅ **Conectividad**: Opciones de entrada como **HDMI, VGA, USB**, entre otras.  
 ✅ **Vida útil de la lámpara**: Duración esperada de la **fuente de luz**.  
 
-![partes de un proyector](img/proyeccion-laser-bluecore.jpg)
+![partes de un proyector](img/esquema-proyector-dlp.jpg)
 
 <p align="justify">
 Estas características influyen en la calidad y utilidad del proyector, permitiendo elegir el modelo adecuado según la necesidad. 🎥  
