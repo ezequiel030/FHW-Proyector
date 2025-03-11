@@ -13,6 +13,8 @@ Un **proyector** es un dispositivo óptico que recibe una señal de video y proy
 Este periférico permite visualizar contenido en grandes dimensiones, convirtiéndolo en una herramienta esencial en múltiples ámbitos.  
 </p>
 
+![proyector](img/ASUS-F1-Proyector.webp)
+
 
 
 
