@@ -4,7 +4,6 @@
 
 ## ÍNDICE:
 
-
 [1. Definición de proyector](periferico.md)
 
 [2. Características principales](caracteristicas.md) 
