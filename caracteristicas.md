@@ -8,7 +8,9 @@
 Los proyectores cuentan con varias características clave que determinan su desempeño y calidad de imagen:  
 </p>
 
-### 📌 Parámetros esenciales  
+<div align="center">
+
+## 📌 Parámetros esenciales  
 
 ✅ **Luminosidad**: Medida en **lúmenes**, determina el brillo de la imagen proyectada.  
 ✅ **Resolución**: Define la **nitidez** de la imagen (ej. **1080p, 4K**).  
@@ -16,7 +18,9 @@ Los proyectores cuentan con varias características clave que determinan su dese
 ✅ **Tamaño de proyección**: Rango de **tamaños de imagen** que puede producir.  
 ✅ **Tecnología de proyección**: Método utilizado para crear la imagen (**LCD, DLP**, etc.).  
 ✅ **Conectividad**: Opciones de entrada como **HDMI, VGA, USB**, entre otras.  
-✅ **Vida útil de la lámpara**: Duración esperada de la **fuente de luz**.  
+✅ **Vida útil de la lámpara**: Duración esperada de la **fuente de luz**. 
+
+</div>
 
 ![partes de un proyector](img/esquema-proyector-dlp.jpg)
 
