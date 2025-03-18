@@ -4,11 +4,15 @@
 
 </div>
 
-<p align="justify">
+<p align="center">
 Los proyectores cuentan con varias características clave que determinan su desempeño y calidad de imagen:  
 </p>
 
-## 📌 Parámetros esenciales  
+<div align="justify">
+
+## 📌 Parámetros esenciales
+
+</div>
 
 ✅ **Luminosidad**: Medida en **lúmenes**, determina el brillo de la imagen proyectada.  
 ✅ **Resolución**: Define la **nitidez** de la imagen (ej. **1080p, 4K**).  
