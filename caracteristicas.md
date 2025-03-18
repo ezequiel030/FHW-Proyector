@@ -1,4 +1,8 @@
+<div align="center">
+
 # 🔍 Características de un proyector  
+
+</div>
 
 <p align="justify">
 Los proyectores cuentan con varias características clave que determinan su desempeño y calidad de imagen:  
