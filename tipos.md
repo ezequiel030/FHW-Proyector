@@ -1,4 +1,8 @@
-# 🎥 Tipos de proyectores  
+<div align="center">
+
+  # 🎥 Tipos de proyectores  
+
+</div>
 
 Existen varios tipos de proyectores según la tecnología utilizada para generar la imagen.  
 
