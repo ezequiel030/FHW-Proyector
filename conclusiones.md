@@ -1,4 +1,8 @@
+<div align="center">
+
 # 🎯 Conclusiones  
+
+</div>
 
 Los proyectores son una solución **versátil y eficiente** para la visualización de contenido en gran formato. Su evolución ha permitido que sean cada vez más accesibles y de mejor calidad.  
 
