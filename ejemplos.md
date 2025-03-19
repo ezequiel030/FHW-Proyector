@@ -1,4 +1,8 @@
+<div align="center">
+
 # 🌟 Ejemplos comerciales.
+
+</div>
 
 Actualmente, en el mercado existen diversos modelos de proyectores con distintas tecnologías y aplicaciones. Algunos de los más populares son:  
 
