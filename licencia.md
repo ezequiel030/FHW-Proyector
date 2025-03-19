@@ -1,4 +1,8 @@
+<div align="center">
+
 # 📜 Licencias  
+
+</div>
 
 A continuación, se mencionan algunas fuentes y entidades relacionadas con las imagenes sobre proyectores:  
 
